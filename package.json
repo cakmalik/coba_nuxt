@@ -19,6 +19,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.2.0",
+    "@pinia/nuxt": "latest",
+    "@vite-pwa/nuxt": "latest",
     "eslint": "^8.57.0"
   }
 }
